@@ -1,7 +1,7 @@
 {
-  "name": "react-sticky",
+  "name": "react-sticky-nrp",
   "version": "6.0.1",
-  "description": "Sticky component for React",
+  "description": "Sticky component for React (NRP port)",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib",

@@ -100,7 +100,7 @@ export default class Sticky extends Component {
     )
 
     return (
-      <div>
+      <div style={{'position':'relative', 'zIndex':99}}>
         <div ref={ placeholder => this.placeholder = placeholder } />
         { element }
       </div>
